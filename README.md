@@ -31,11 +31,10 @@ my cozy ahh i3 dotfiles on linux mint featuring earthy olive greens, amber yello
 ## ⌨️ Keybinds
 | Key | Action |
 |-----|--------|
-| `$mod + q` | Terminal |
-| `$mod + space` | Rofi launcher |
+| `$mod + enter` | Terminal |
+| `$mod + d` | Rofi launcher |
 | `$mod + e` | File manager |
-| `$mod + Shift + q` | Kill window |
-| `$mod + f` | Fullscreen |
+| `$mod + q` | Kill window |
 | `Print` | Screenshot |
 
 ## 📦 Dependencies
