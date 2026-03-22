@@ -4,6 +4,7 @@ my cozy ahh i3 dotfiles on linux mint featuring earthy olive greens, amber yello
 
 ## 📸 Preview
 ![screenshot](screenshot.png)
+![screenshot](screenshot2.png)
 
 ## 🖥️ Setup
 | Component | Software |
