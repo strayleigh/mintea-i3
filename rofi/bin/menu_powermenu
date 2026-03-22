@@ -1,0 +1,15 @@
+#!/bin/bash
+
+option0="⏻ Shutdown"
+option1="↺ Reboot"
+option2=" Suspend"
+option3="⏏ Logout"
+
+chosen=$(echo -e "$option0\n$option1\n$option2\n$option3" | rofi -dmenu -p "Power")
+
+case $chosen in
+    $option0) systemctl poweroff ;;
+    $option1) systemctl reboot ;;
+    $option2) systemctl suspend ;;
+    $option3) i3-msg exit ;;
+esac
