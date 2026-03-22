@@ -1,7 +1,5 @@
 # mintea-i3 🍵
 
-my cozy ahh i3 dotfiles on linux mint featuring earthy olive greens, amber yellows, and ember orange accents.
-
 ## 📸 Preview
 ![screenshot](screenshot.png)
 
