@@ -42,4 +42,5 @@ sudo apt install i3 polybar kitty rofi picom dunst thunar btop playerctl brightn
 
 ## 🙏 Credits
 - Rofi themes by [JaKooLit](https://github.com/JaKooLit)
+- Agnosterzak theme by [zakaziko99](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme)
 - Inspired by various dotfiles from the community
